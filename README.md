@@ -28,5 +28,5 @@ Submissions can be "reported" for reasons such as trolling, not following the to
 
 ### 12. January 20201 - 21. February 2021
 
-[I'm an inline-style link with title](https://github.com/MoonTM-GIT/MoonTM-GIT "Moon's Entry")
+[Moon's Entry](https://github.com/MoonTM-GIT/MoonTM-GIT "Moon's Entry")
 

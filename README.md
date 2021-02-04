@@ -4,6 +4,7 @@
 CommunityJam is a version of the JavaJam which is kept running mostly by the community.
 
 ### Three Phases:
+-------------
 
 #### Collection Phase
 Everyone gets to submit topics which are controlled for legitimacy by experts or higher.

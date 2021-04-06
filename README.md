@@ -26,11 +26,16 @@ Submissions can be "reported" for reasons such as trolling, not following the to
 
 ## Entries
 
-### 12. January 20201 - 22. February 2021
+### 12. January 2021 - 22. February 2021
 
-•[<𝚃𝚒𝚖>#8874's Entry - MrTuring](https://github.com/timlg07/Mr-Turing)
+• [<𝚃𝚒𝚖>#8874's Entry - MrTuring](https://github.com/timlg07/Mr-Turing)
 
-•[dan1st#7327's Entry - Custom Slash Commands](https://github.com/danthe1st/custom-slash-commands)
+• [dan1st#7327's Entry - Custom Slash Commands](https://github.com/danthe1st/custom-slash-commands)
 
-•[Andrew.#3939's Entry - MissionControlBot](https://github.com/andrewlalis/MissionControlBot)
+• [Andrew.#3939's Entry - MissionControlBot](https://github.com/andrewlalis/MissionControlBot)
 
+### 01. March 2021 - 31. March 2021
+
+• [Andrew.#3939's Entry - BlockBookBinder](https://github.com/andrewlalis/BlockBookBinder)
+
+• [dan1st#7327's Entry - YAGPL](https://github.com/danthe1st/YAGPL)

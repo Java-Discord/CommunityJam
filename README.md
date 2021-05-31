@@ -46,6 +46,13 @@ Submissions can be "reported" for reasons such as trolling, not following the to
 
 ---
 
+### 06. April 2021 - 27. April 2021: 
+## "A parser (of any kind)"
+
+• [Mwexim#3563's Entry - skript-parser](https://github.com/SkriptLang/skript-parser)
+
+---
+
 ### 07. May 2021 - 28. May 2021: 
 ## "A program that looks legit and then rick-rolls you"
 

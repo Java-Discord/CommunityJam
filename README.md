@@ -27,7 +27,7 @@ Submissions can be "reported" for reasons such as trolling, not following the to
 ## Entries
 
 ### 12. January 2021 - 22. February 2021: 
-# "discord bots"
+## "discord bots"
 
 • [<𝚃𝚒𝚖>#8874's Entry - MrTuring](https://github.com/timlg07/Mr-Turing)
 
@@ -36,14 +36,14 @@ Submissions can be "reported" for reasons such as trolling, not following the to
 • [Andrew.#3939's Entry - MissionControlBot](https://github.com/andrewlalis/MissionControlBot)
 
 ### 01. March 2021 - 31. March 2021: 
-# "Editor (Text, image, or IDE)"
+## "Editor (Text, image, or IDE)"
 
 • [Andrew.#3939's Entry - BlockBookBinder](https://github.com/andrewlalis/BlockBookBinder)
 
 • [dan1st#7327's Entry - YAGPL](https://github.com/danthe1st/YAGPL)
 
 ### 07. May 2021 - 28. May 2021: 
-# "A program that looks legit and then rick-rolls you"
+## "A program that looks legit and then rick-rolls you"
 
 • [AttilaTheHun#9489's Entry - Video Converter](https://github.com/AttiliaTheHun/Video-Converter)
 

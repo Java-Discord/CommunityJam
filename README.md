@@ -39,3 +39,10 @@ Submissions can be "reported" for reasons such as trolling, not following the to
 • [Andrew.#3939's Entry - BlockBookBinder](https://github.com/andrewlalis/BlockBookBinder)
 
 • [dan1st#7327's Entry - YAGPL](https://github.com/danthe1st/YAGPL)
+
+### 07. May 2021 - 28. May 2021
+
+• [AttilaTheHun#9489's Entry - Video Converter](https://github.com/AttiliaTheHun/Video-Converter)
+
+• [Loading BG#7962's Entry - Text Game Sample](https://github.com/LoadingBG/text-game-sample)
+

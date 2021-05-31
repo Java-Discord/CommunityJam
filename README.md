@@ -50,6 +50,7 @@ Submissions can be "reported" for reasons such as trolling, not following the to
 ## "A parser (of any kind)"
 
 • [Mwexim#3563's Entry - skript-parser](https://github.com/SkriptLang/skript-parser)
+
 • _other entries are missing_
 
 ---

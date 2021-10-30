@@ -1,4 +1,5 @@
-# Community Jam
+# Community Jam (ARCHIVED)
+→ moved to https://pages.javadiscord.net/java-jam
 
 ## What is it?
 CommunityJam is a version of the JavaJam which is kept running mostly by the community.
